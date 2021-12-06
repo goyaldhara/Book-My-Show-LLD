@@ -1,7 +1,9 @@
 # Low Level Design - Book My Show 
 
 ## Introduction
-This repository contains the low level design (LLD) of an online movie ticket booking system like BookMyShow
+This repository contains the low level design (LLD) implementation of an online movie ticket booking system like BookMyShow
+
+It has features to add movies, create theatres , search for cities with movies, book tickets for shows etc.
 
 ---
 
@@ -139,4 +141,4 @@ Few response params are intentionally shown for better idea of API they should b
 
 ---
 
-Feel Free to contact me for any queries : 
+Please Feel free to contact me for any queries : goyaldhara555@gmail.com
