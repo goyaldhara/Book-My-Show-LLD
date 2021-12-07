@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the low level design (LLD) implementation of an online movie ticket booking system like BookMyShow
 
-It has features to add movies, create theatres , search for cities with movies, book tickets for shows etc.
+It has features to add movies, create theatres , search for cities with movies, book tickets for shows etc. As per the mentioned requirements, The actual implementation of methods, service APIs is optional
 
 ---
 
